@@ -1,0 +1,14 @@
+#main {
+  width: 100%;
+}
+
+#img-div {
+  width: 100%;
+}
+
+#image {
+  display: block;
+  max-width: 1133px;
+  height: auto;
+  margin: auto;
+}
